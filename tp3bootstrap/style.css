@@ -1,0 +1,24 @@
+.container{
+	padding: 30px;
+}
+
+.myName{
+	padding-top: 40px;
+}
+.group{
+	color: grey;
+}
+.animated-image{
+	
+	float: left;
+	width: 170px;
+}
+
+h6{
+	margin: auto;	
+	padding-top: 50px;
+	padding-left: 170px;
+}
+hr{
+	margin-top: 65px;
+}
