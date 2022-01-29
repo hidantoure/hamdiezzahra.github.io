@@ -1,0 +1,6 @@
+.gradient-custom {
+  /* fallback for old browsers */
+  background: #6a11cb;
+
+  background-image: linear-gradient(to right, #2a5493, #1c64a0, #0773aa, #0082b4, #0091bb);
+}
